@@ -1,5 +1,4 @@
 h1{ 
- font: sans-serif;
  color: white;
   }
 p{
@@ -14,4 +13,10 @@ h2{
   }
   a{
   	color: black;
+  }
+  img{
+  	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 50%;
   }
