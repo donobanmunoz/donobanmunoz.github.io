@@ -1,6 +1,6 @@
 h1{ 
  font: sans-serif;
- color: red
+ color: white;
   }
 p{
  color: grey;
@@ -10,5 +10,5 @@ body{
  background: grey;
   }
 h2{
- color: red;
+ color: white;
   }
